@@ -3,4 +3,4 @@
 # 开始
   接下来，就让我们先一起学习JavaScript吧！
 # JavaScript教学
-## (1)JavaScript实现改变页面
+## 1_JavaScript实现改变页面
