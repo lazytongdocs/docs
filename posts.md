@@ -38,6 +38,6 @@ JavaScript是一门轻型的浏览器前端脚本语言，在1995年，布兰登
 <script type="text/javascript"></script>
 ```
 #### JavaScript可以被引入的地方
-* <head>标签
-* <body>标签
-#### 在<head>标签中使用JavaScript
+* head标签
+* body标签
+#### 在head标签中使用JavaScript
