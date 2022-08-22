@@ -41,7 +41,8 @@ JavaScript是一门轻型的浏览器前端脚本语言，在1995年，布兰登
 * head标签
 * body标签
 #### 在head标签中使用JavaScript
-
+实例
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -54,3 +55,4 @@ alert("test");
 <button type="button" onclick="myFunction()">click me</button>
 </body>
 </html>
+```
