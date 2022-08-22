@@ -2,4 +2,5 @@
   这是LazyTong的文档，是一个编程的知识网站，还有一些其他的介绍。
 # 开始
   接下来，就让我们先一起学习JavaScript吧！
-# JavaScript实现改变页面
+# JavaScript教学
+## JavaScript实现改变页面
