@@ -16,9 +16,18 @@
     window.$docsify = {
       name: 'Mr.LazyTong 文档',
       coverpage: 'coverpage.md',
-      homepage: 'posts.md',
+      homepage: 'posts.md'
+      search: 'auto',
+      search: {
+        maxAge: 86400000,
+        paths: [],
+        placeholder: '搜索',
+        noData: '什么都没有搜到',
+        depth: 2,
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
