@@ -1,1 +1,1 @@
-* [JavaScript改变页面](posts/20220822.md)
+* [JavaScript改变页面](posts/20220822)
