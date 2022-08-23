@@ -1,4 +1,4 @@
-![logo](https://docsify.js.org/_media/icon.svg)
+![logo](logo.svg)
 
 # LazyTong 文档
 
