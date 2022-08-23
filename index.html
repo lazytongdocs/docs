@@ -23,10 +23,24 @@
       homepage: 'posts.md',
     }
   </script>
+  <link rel="stylesheet" href="/css/gitalk.css">
+  <script src="/js/gitalk.plugin.js"></script>
+  <script src="/js/gitalk.min.js"></script>
   <script src="/js/docsify.min.js"></script>
   <script src="/js/docsify-copy-code.min.js"></script>
   <script src="/js/search.min.js"></script>
   <script src="/js/countable.js"></script>
   <script src="/js/zoom-image.min.js></script>
+  <script>
+  const gitalk = new Gitalk({
+    clientID: 'Github Application Client ID',
+    clientSecret: 'Github Application Client Secret',
+    repo: 'Github repo',
+    owner: 'Github repo owner',
+    admin: ['Github repo collaborators, only these guys can initialize github issues'],
+    // facebook-like distraction free mode
+    distractionFreeMode: false
+  })
+</script>
 </body>
 </html>
